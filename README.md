@@ -1,6 +1,6 @@
 # kerplunk-foursquare-tweets
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. When tweets link to Foursquare/Swarm checkins, show them as activity on those checkins.
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-foursquare-tweets.svg)](https://travis-ci.org/brianshaler/kerplunk-foursquare-tweets)
 [![npm version](https://img.shields.io/npm/v/kerplunk-foursquare-tweets.svg)](https://www.npmjs.com/package/kerplunk-foursquare-tweets)
