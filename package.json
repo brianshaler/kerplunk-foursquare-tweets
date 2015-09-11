@@ -2,7 +2,7 @@
   "name": "kerplunk-foursquare-tweets",
   "displayName": "Foursquare + Twitter de-duplication",
   "description": "When tweets link to Foursquare/Swarm checkins, show them as activity on those checkins.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-foursquare",
