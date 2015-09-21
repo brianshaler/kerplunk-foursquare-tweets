@@ -28,7 +28,8 @@ module.exports = (System) ->
         platform: 'foursquare'
         'data.id': match[1]
       .findOne()
-      Promise(mpromise) (checkin) ->
+      Promise mpromise
+      .then (checkin) ->
         return item unless checkin
         checkin.activity = [] unless checkin.activity?.length > 0
         checkin.activity.push item._id
